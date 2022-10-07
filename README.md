@@ -1,6 +1,6 @@
 Chisel Project Template
 =======================
-
+Seddon,2022-10-07:需要适配的Java版本，目前使用OpenJDK11
 You've done the [Chisel Bootcamp](https://github.com/freechipsproject/chisel-bootcamp), and now you
 are ready to start your own Chisel project.  The following procedure should get you started
 with a clean running [Chisel3](https://www.chisel-lang.org/) project.
